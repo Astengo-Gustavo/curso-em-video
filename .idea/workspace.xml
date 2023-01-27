@@ -5,12 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="57460e4f-df4a-45ac-9263-34adaba193cf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ex113.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex114.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex115/lib/arquivo/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex115/lib/interface/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ex115/sistema.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex115/cursoemvideo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ex115/cursoemvideo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex115/lib/arquivo/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex115/lib/arquivo/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex115/sistema.py" beforeDir="false" afterPath="$PROJECT_DIR$/ex115/sistema.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
